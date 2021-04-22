@@ -92,8 +92,8 @@ $(document).ready(function(){
         slidesToScroll:1,
         arrows:true,
         swipe:false,
-        prevArrow:'<div class="prev mainArrow"><img src="../img/main/arrow-left-wh.png"></div>',
-        nextArrow:'<div class="next mainArrow"><img src="../img/main/arrow-right-wh.png"></div>'
+        prevArrow:'<div class="prev mainArrow"><img src="/img/main/arrow-left-wh.png"></div>',
+        nextArrow:'<div class="next mainArrow"><img src="/img/main/arrow-right-wh.png"></div>'
     })
     
     
